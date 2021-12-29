@@ -14,12 +14,7 @@ int main(int argc, char const *argv[])
     for( i=1; i<=10; i++)
     {
         value=i*number;
-      printf("%d ",i);
-      printf("X ");
-      printf("%d ",number);
-      printf("= ");
-      printf("%d\n",value);
-    
+      printf(" %d X %d = %d\n ", i, number, value);
     }
 
 

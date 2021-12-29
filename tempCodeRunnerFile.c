@@ -1,2 +1,3 @@
-mber: ");
-   scanf("%d", num);
+
+    // printf("Enter a number: ");
+    // scanf("%d",num);
